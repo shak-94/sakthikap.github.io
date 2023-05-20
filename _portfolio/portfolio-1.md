@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Node Classification using Kernel Propagation in Graph
+Neural Networks"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/KPGCN_Proposed_Combined.png'>"
 collection: portfolio
 ---
 
