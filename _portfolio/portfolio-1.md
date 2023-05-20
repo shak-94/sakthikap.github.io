@@ -1,7 +1,7 @@
 ---
 title: "Node Classification using Kernel Propagation in Graph
 Neural Networks"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/KPGCN.png' width="400" height="400">
+excerpt: "Short description of portfolio item number 1<br/><img src="/images/KPGCN.png" width="400" height="400">
 collection: portfolio
 ---
 
