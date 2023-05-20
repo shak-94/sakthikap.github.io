@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
 ======
 I am a Ph.D. candidate in Mechanical Engineering at CMU advised by Professor Conrad Tucker. My research focuses on using Graph Networks to learn particle dynamics and control. I have successfully passed my proposal examination and will be defending my Ph.D. thesis in August 2023. 
 
