@@ -3,6 +3,7 @@ title: "Node Classification using Kernel Propagation in Graph
 Neural Networks"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/KPGCN_Proposed_Combined.png' width='400' height='400'>"
 collection: portfolio
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
