@@ -184,9 +184,9 @@ collections:
   software_publications:
     output: true
     permalink: /:collection/:path/
-#   talks:
-#     output: true
-#     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
