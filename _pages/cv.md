@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="http://sakthikap.github.io/files/resume.pdf"> Paper </a> <br/>
+<a href="http://sakthikap.github.io/files/Sakthi_Kumar_Resume.pdf"> Resume </a> <br/>
