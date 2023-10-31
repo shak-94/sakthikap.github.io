@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Mechanical Engineering at CMU advised by Professor Conrad Tucker. My research focuses on using Graph Networks to learn particle dynamics and control. I have successfully passed my proposal examination and will be defending my Ph.D. thesis in August 2023. 
+I am a Postdoctoral Research Associate at the Department of Machine Learning in the School of Computer Science at Carnegie Mellon University. My research currently focuses on learning causality from physics simulations. Prior to this, I received my Ph.D. in Mechanical Engineering at Carnegie Mellon University. The focus of my Ph.D. thesis was on using Graph Networks to learn particle dynamics and control. 
 
 Research Interests
 =======
