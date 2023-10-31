@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<a href="http://sakthikap.github.io/files/resume.pdf"> Paper </a> <br/>
