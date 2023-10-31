@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Software & Publications"
+  - title: "Publications"
     url: /software_publications/
     
   - title: "Teaching"
@@ -9,7 +9,7 @@ main:
 #   - title: "Blog Posts"
 #     url: /posts/
     
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
     
 #   - title: "Guide"
