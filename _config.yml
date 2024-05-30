@@ -13,7 +13,7 @@ name                     : &name "Sakthi Kumar Arul Prakash"
 description              : &description "personal description"
 url                      : https://sakthikap.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sakthikap/sakthikap.github.io"
+repository               : "shak-94/sakthikap.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=05oJlC8AAAAJ&hl=en&authuser=1"
-  email            : "sarulpra@andrew.cmu.edu"
+  email            : "sakthikap77@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Sakthi-Kumar-Arul-Prakash"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sakthikap"
+  github           : "shak-94"
   google_plus      :
   keybase          :
   instagram        :
