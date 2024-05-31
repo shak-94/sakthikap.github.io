@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-`<a href="https://shak-94.github.io/files/Sakthi_Kumar_Resume.pdf">` Resume `</a>` `<br/>`
+`<a href="https://github.com/shak-94/shak-94.github.io/blob/master/files/Sakthi_Kumar_Resume.pdf">` Resume `</a>` `<br/>`
